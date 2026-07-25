@@ -110,7 +110,7 @@ The analysis followed these steps:
 
 ## 2. Renewal Conversion % by LOB Model
 
-![LOB Model Comparison](Images/CLustered_Bar_Chart.png)
+![LOB Model Comparison](Images/Clustered_Bar_Chart.png)
 
 ### Insight
 
@@ -122,7 +122,7 @@ The analysis followed these steps:
 
 ## 3. KPI Summary
 
-![Summary Table](images/Table.png)
+![Summary Table](Images/Table.png)
 
 ### Insight
 
