@@ -61,6 +61,32 @@ The dataset simulates a **car insurance renewal portfolio** covering **2025–20
 
 ---
 
+## 📖 Data Dictionary
+
+The table below describes the key fields used throughout the analysis.
+
+| Column             | Description                                                                                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Policy_ID**      | Unique identifier assigned to each insurance policy.                                                        |
+| **Customer_ID**    | Unique identifier for each customer.                                                                        |
+| **LOB**            | Line of Business (e.g., Auto, Motorcycle, Commercial Vehicle).                                              |
+| **Business_Type**  | Indicates whether the policy is **New Business** or **Renewal**.                                            |
+| **Status**         | Renewal outcome of the policy (Converted or Lost).                                                          |
+| **Premium**        | Insurance premium amount associated with the policy.                                                        |
+| **Effective_Date** | Date when the insurance policy became effective.                                                            |
+| **Renewal_Date**   | Scheduled date for policy renewal.                                                                          |
+| **Year**           | Calendar year extracted from the renewal date for trend analysis.                                           |
+| **Month**          | Calendar month used to analyze monthly renewal performance.                                                 |
+| **Month_Number**   | Numeric representation of the month (1–12) used to ensure chronological sorting in Power BI visualizations. |
+
+### Notes
+
+* **LOB (Line of Business)** categorizes insurance products into different product lines for comparison.
+* **Business_Type** distinguishes new policy sales from renewal transactions.
+* **Status** is the primary field used to calculate the **Renewal Conversion Rate**.
+* **Month_Number** was created during data preparation to correctly display months in chronological order within Power BI.
+
+
 # 🧹 Data Cleaning
 
 Data preparation was performed in Microsoft Excel.
