@@ -105,7 +105,7 @@ The project followed these steps:
 
 ## 2. Renewal Conversion % by LOB Model
 
-![LOB Model Comparison](Images/Clustered_Bar_Chart.png)
+![LOB Model Comparison](Images/Clustered Bar_Chart.png)
 
 ### Key Findings
 
@@ -118,7 +118,7 @@ The dashboard shows that the Specialized operating model consistently outperform
 
 ## 3. KPI Summary
 
-![KPI Summary](Images/Table.png)
+![KPI Summary](Images/Table_Chart.png)
 
 ### Summary
 
