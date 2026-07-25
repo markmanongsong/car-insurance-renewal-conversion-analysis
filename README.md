@@ -61,6 +61,7 @@ The dataset simulates a **car insurance renewal portfolio** covering **2025–20
 
 ---
 
+
 ## 📖 Data Dictionary
 
 The table below describes the key fields used throughout the analysis.
@@ -85,6 +86,7 @@ The table below describes the key fields used throughout the analysis.
 * **Business_Type** distinguishes new policy sales from renewal transactions.
 * **Status** is the primary field used to calculate the **Renewal Conversion Rate**.
 * **Month_Number** was created during data preparation to correctly display months in chronological order within Power BI.
+
 
 
 # 🧹 Data Cleaning
