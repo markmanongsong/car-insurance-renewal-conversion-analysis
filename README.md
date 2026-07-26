@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This project analyzes the impact of changing the insurance sales operating model from **Specialized Agents (2025)** to **Combined Agents (2026)** on renewal performance.
+This project analyzes the relationship between the insurance sales operating model, agent workload, and renewal performance following the transition from **Specialized Agents (2025)** to **Combined Agents (2026)**.
 
 In 2025, agents handled either **Renewals** or **New Business** exclusively. Beginning in 2026, both responsibilities were merged into a single role. This analysis evaluates the relationship between the operating model, agent workload, and renewal conversion performance.
 
@@ -18,7 +18,7 @@ Renewal conversion declined from 82% in 2025 to 49% in 2026 following the implem
 
 # 📂 Dataset Description
 
-This project uses a simulated car insurance renewal dataset representing policy renewal activities from 2025 to 2026.
+This project uses a simulated car insurance renewal dataset containing approximately **1,000 policy records** covering renewal activities from 2025 to 2026.
 
 ### Tables
 
@@ -88,6 +88,7 @@ Cleaning activities included:
 - ✅ Converted inconsistent date formats
 - ✅ Corrected invalid and inconsistent values
 - ✅ Verified numeric and date data types
+- ✅ Validated numeric fields
 - ✅ Prepared the dataset for Power BI modeling
 
 ---
@@ -115,7 +116,7 @@ The project followed these steps:
 
 - **2025** maintained a consistently high renewal conversion rate, averaging approximately **82%**.
 - **2026** experienced a noticeable decline, averaging approximately **49%**.
-- The decline persisted throughout the available months (January–July), indicating that the drop was likely related to the operating model change rather than seasonality.
+- The decline persisted throughout the available months (January–July), suggesting that the lower renewal conversion was consistent during the observed period.
 
 ---
 
@@ -148,7 +149,16 @@ The dashboard shows that the Specialized operating model consistently outperform
 - Average workload increased from **27.41** to **46.84** policies per agent (**~71% increase**).
 - Renewal conversion declined from **82%** to **49%**.
 - Although the 2026 dataset only includes **January–July**, renewal conversion remained significantly below 2025 levels.
-- The results suggest that assigning agents to both New Business and Renewals reduced their ability to successfully convert renewal opportunities.
+- The findings suggest that assigning agents to both New Business and Renewals was associated with lower renewal conversion and higher workloads.
+
+---
+
+### Key Business Impact
+
+📉 Renewal conversion declined by 33 percentage points, from 82% in 2025 to 49% in 2026.
+📈 Average agent workload increased by approximately 71%, from 27.41 to 46.84 policies per agent.
+📊 The findings suggest that higher workloads were associated with lower renewal conversion performance.
+🎯 The dashboard enables managers to monitor renewal conversion, agent workload, and operational KPIs to evaluate future process changes and support data-driven decision-making.
 
 ---
 
