@@ -4,7 +4,7 @@
 
 This project analyzes the impact of changing the insurance sales operating model from **Specialized Agents (2025)** to **Combined Agents (2026)** on renewal performance.
 
-In 2025, agents handled either **Renewals** or **New Business** exclusively. Beginning in 2026, both responsibilities were merged into a single role. This analysis evaluates whether the increased workload affected renewal conversion rates.
+In 2025, agents handled either **Renewals** or **New Business** exclusively. Beginning in 2026, both responsibilities were merged into a single role. This analysis evaluates the relationship between the operating model, agent workload, and renewal conversion performance.
 
 The project was completed using **Microsoft Excel** for data preparation and **Power BI** for data modeling, DAX measures, and interactive dashboard development.
 
@@ -12,13 +12,13 @@ The project was completed using **Microsoft Excel** for data preparation and **P
 
 # 🚨 Problem Statement
 
-Renewal conversion declined from 80% in 2025 to 50% in 2026 after the implementation of a new operating model in which agents handled both Renewals and New Business. This project analyzes whether the operational change and increased agent workload contributed to the decline and identifies opportunities to improve renewal performance.
+Renewal conversion declined from 82% in 2025 to 49% in 2026 following the implementation of a new operating model in which agents handled both Renewals and New Business. This project examines the relationship between the operating model, agent workload, and renewal conversion to identify data-driven opportunities for improving renewal performance.
 
 ---
 
 # 📂 Dataset Description
 
-The dataset simulates a **car insurance renewal portfolio** covering **2025–2026**.
+This project uses a simulated car insurance renewal dataset representing policy renewal activities from 2025 to 2026.
 
 ### Tables
 
@@ -161,7 +161,7 @@ Key observations include:
 - Specialized agents consistently achieved higher renewal conversion.
 - Combined-role agents managed substantially larger workloads.
 - Increased workload coincided with lower renewal conversion rates.
-- The operational change appears to have negatively impacted renewal performance.
+- The analysis suggests that the transition to a combined operating model was associated with increased agent workload and lower renewal conversion performance.
 
 ---
 
