@@ -121,7 +121,7 @@ The project followed these steps:
 
 ## 1. Renewal Conversion % by Month and Year
 
-![Renewal Conversion Trend](Images/Line_Chart.png)
+![Renewal Conversion Trend](Images/Line_Chart(2).png)
 
 ### Key Findings
 
