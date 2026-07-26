@@ -12,19 +12,7 @@ The project was completed using **Microsoft Excel** for data preparation and **P
 
 # 🚨 Problem Statement
 
-Management introduced a new operating model in 2026 where agents handled both **Renewals** and **New Business** instead of specializing in one line of business.
-
-Following this organizational change:
-
-- Renewal conversion declined significantly.
-- Agent workload increased.
-- More renewal opportunities were lost.
-
-This project aims to answer the following business questions:
-
-- Did the LOB merge negatively affect renewal conversion?
-- Did increased workload contribute to lower performance?
-- What operational improvements can help recover renewal conversion?
+Renewal conversion decreased from 2025 to 2026 after agents began handling both Renewals and New Business. This project evaluates the impact of the operational change and identifies opportunities to improve renewal success.
 
 ---
 
