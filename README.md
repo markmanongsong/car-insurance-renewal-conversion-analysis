@@ -153,17 +153,6 @@ The dashboard shows that the Specialized operating model consistently outperform
 
 ---
 
-
-# Key Business Impact
-
-- 📉 Renewal conversion declined by 33 percentage points, from 82% in 2025 to 49% in 2026.
-- 📈 Average agent workload increased by approximately 71%, from 27.41 to 46.84 policies per agent.
-- 📊 The findings suggest that higher workloads were associated with lower renewal conversion performance.
-- 🎯 The dashboard enables managers to monitor renewal conversion, agent workload, and operational KPIs to evaluate future process changes       and support data-driven decision-making.
-
-
----
-
 # 📊 Overall Findings
 
 The analysis indicates a strong relationship between increased workload and declining renewal performance.
@@ -185,6 +174,17 @@ Based on the findings, the following actions are recommended:
 - Balance workloads across agents to reduce operational overload.
 - Monitor workload alongside renewal conversion KPIs.
 - Regularly review conversion performance after operational changes to measure business impact.
+
+---
+
+
+# Key Business Impact
+
+- 📉 Renewal conversion declined by 33 percentage points, from 82% in 2025 to 49% in 2026.
+- 📈 Average agent workload increased by approximately 71%, from 27.41 to 46.84 policies per agent.
+- 📊 The findings suggest that higher workloads were associated with lower renewal conversion performance.
+- 🎯 The dashboard enables managers to monitor renewal conversion, agent workload, and operational KPIs to evaluate future process changes       and support data-driven decision-making.
+
 
 ---
 
