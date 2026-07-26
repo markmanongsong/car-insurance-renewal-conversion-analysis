@@ -12,7 +12,7 @@ The project was completed using **Microsoft Excel** for data preparation and **P
 
 # 🚨 Problem Statement
 
-Renewal conversion decreased from 2025 to 2026 after agents began handling both Renewals and New Business. This project evaluates the impact of the operational change and identifies opportunities to improve renewal success.
+Renewal conversion fell from 80% in 2025 to 50% in 2026 after agents began handling both Renewals and New Business. This study evaluates the operational impact of the new model and proposes data-driven recommendations to improve renewal success.
 
 ---
 
